@@ -1,0 +1,6 @@
+[submodule "FrostEvo.MySql"]
+	path = FrostEvo.MySql
+	url = https://github.com/FrostEvoWoW/FrostEvo.MySql
+[submodule "FrostEvo.Core"]
+	path = FrostEvo.Core
+	url = https://github.com/FrostEvoWoW/FrostEvo.Core
